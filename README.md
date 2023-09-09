@@ -4,8 +4,9 @@
 1. [Overview](#overview)
 2. [Project Description](#project-description)
 3. [Dataset](#dataset)
-4. [Notebook](#notebooks)
-5. [Project Structure](#project-structure)
+4. [Project Structure](#project-structure)
+5. [Notebook](#notebooks)
+6. [Usage](#usage)
 
 ## Overview<a name="overview"></a>
 
@@ -50,7 +51,7 @@ The project repository is organized as follows:
 
 - `employee-retention-prediction.ipynb`: This notebook contains the entire project, including data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and results.
 
-## Usage
+## Usage<a name="usage"></a>
 To explore the project materials and findings, follow these steps:
 
 1. Navigate through the notebook `employee-retention-prediction.ipynb` or visit the Kaggle notebook directly at [Employee Retention Prediction Kaggle Notebook](https://www.kaggle.com/code/kiranpathak97/predict-employee-retention-for-salifort-motors#Employee-Retention-Analysis-for-HR).
